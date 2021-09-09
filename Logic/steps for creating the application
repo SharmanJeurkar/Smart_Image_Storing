@@ -1,0 +1,26 @@
+Image Storing Application
+
+Steps for creating the application		
+
+1)	Create the project
+2)	Add the following dependencies
+
+	Spring devtools
+	Thymeleaf
+	Spring security
+	Mysql connector
+	Hibernate validator
+	Javax.validator
+	Spring web
+	Spring Data JPA
+	(Comment the security dependencies till the security configuration)
+
+3)	Create Entities
+4)	Create Repo
+5)	Create Thymeleaf base.html
+6)	Create home page
+7)	Create about Page
+8)	Create registration Page
+9)	Create login Page
+10)	Add server-side validation for registration page
+11)	Add functionality for registration page
